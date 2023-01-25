@@ -1,7 +1,7 @@
-package com.pratik.www.employee.service;
+package com.aveline.www.employee.service;
 
-import com.pratik.www.employee.db.entity.EmployeeEntity;
-import com.pratik.www.employee.db.repository.EmployeeEntityRepository;
+import com.aveline.www.employee.db.entity.EmployeeEntity;
+import com.aveline.www.employee.db.repository.EmployeeEntityRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

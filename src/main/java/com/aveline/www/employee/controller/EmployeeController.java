@@ -1,7 +1,7 @@
-package com.pratik.www.employee.controller;
+package com.aveline.www.employee.controller;
 
-import com.pratik.www.employee.db.entity.EmployeeEntity;
-import com.pratik.www.employee.service.EmployeeService;
+import com.aveline.www.employee.db.entity.EmployeeEntity;
+import com.aveline.www.employee.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

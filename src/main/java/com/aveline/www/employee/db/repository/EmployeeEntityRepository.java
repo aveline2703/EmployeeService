@@ -1,6 +1,6 @@
-package com.pratik.www.employee.db.repository;
+package com.aveline.www.employee.db.repository;
 
-import com.pratik.www.employee.db.entity.EmployeeEntity;
+import com.aveline.www.employee.db.entity.EmployeeEntity;
 import org.springframework.data.couchbase.core.query.N1qlPrimaryIndexed;
 import org.springframework.data.couchbase.core.query.ViewIndexed;
 import org.springframework.data.couchbase.repository.CouchbaseRepository;
